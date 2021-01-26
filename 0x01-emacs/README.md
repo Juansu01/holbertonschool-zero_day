@@ -1,0 +1,1 @@
+Inside this project you will find answer to the emacs tasks
